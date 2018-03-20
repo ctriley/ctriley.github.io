@@ -1,14 +1,14 @@
 # main text of home
 name: Connor Riley
-bio: A Man who travels the world eating noodles
+bio: PhD Student at University of Michigan studying Operations Research and Computer Science.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Personal Website
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.png
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -35,15 +35,16 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: https://twitter.com/connortriley
-google: https://scholar.google.com/citations?user=XZ4e0UwAAAAJ&hl=en
+twitter: connortriley
+#google: https://scholar.google.com/citations?user=XZ4e0UwAAAAJ&hl=en
+gscholar: XZ4e0UwAAAAJ&hl=en
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/connortriley/
+linkedin: connortriley/
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/ctriley
-lastfm: https://www.last.fm/user/ctriley
+github: ctriley
+lastfm: ctriley
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
