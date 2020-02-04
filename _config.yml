@@ -17,7 +17,6 @@ resume-external: true
 resume-url: assets/riley-cv.pdf
 
 url: https://ctriley.github.io
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
@@ -45,7 +44,7 @@ linkedin: connortriley/
 # spotify: myspotify
 github: ctriley
 lastfm: ctriley
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 7618425/connor
 # quora: userquora
 # reddit: username
 # medium: medium
@@ -56,7 +55,7 @@ email: ctriley@gatech.edu
 authors:
     johndoe:
         name: Connor Riley
-        bio: 
+        bio: Operations Research PhD Student at Georgia Institute of Technology. Formerly, University of Michigan and the University of Connecticut.
         external-image: false
         picture: assets/images/profile.png
 
